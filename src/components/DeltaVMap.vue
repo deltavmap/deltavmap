@@ -66,6 +66,7 @@
   </div>
 </template>
 <script>
+// https://learnvue.co/2020/09/how-to-deploy-your-vue-app-to-github-pages/
 // https://www.reddit.com/r/space/comments/1ktjfi/deltav_map_of_the_solar_system/
 // https://dash.plotly.com/cytoscape
 // https://imgur.com/a/ordID
